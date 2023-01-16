@@ -4,7 +4,7 @@ function generatePassword(){
   var includeUpperCase, includeLowerCase, includeNumbers, includeSpecial;
   var potentialChars = [];
   var pw = "";
-  // while the condition is true, everything in the curly brackets will be repeated
+  // while the condition is true, everything in the curly brackets will be repeated.
   while (!(length < 129 && length > 7)){
     // parseInt takes the string returned from the prompt function and converts it to a number
     length = parseInt(prompt("How long would you like your password to be?"));
@@ -37,9 +37,8 @@ function generatePassword(){
   return pw;
 
 }
-
+// function takes user input of yes or no and translates it to true or false.
 function translateAnswer(ans){
-  // function takes user input that answers a yes or no question and translates it to true or false
   ans = ans.toLowerCase();
   if((ans == "yes") || (ans == "ok") || (ans == "true") || (ans == "y")){
     return true;
