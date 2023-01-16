@@ -11,7 +11,7 @@ Creating a working password generator helped me gain more experience and exposur
 
 ## Usage
 
- ![alt tag](./Develop/PWgenerator.jpg)
+ ![alt tag](./PWgenerator.jpg)
 
 ## Credits
 -Bootcamp class
