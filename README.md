@@ -11,7 +11,7 @@ Creating a working password generator helped me gain more experience and exposur
 
 ## Usage
 https://xkranze.github.io/password-plug/
- ![alt tag](./PWgenerator.jpg)
+ ![alt tag](./pwgen.jpg)
 
 ## Credits
 -Bootcamp class
