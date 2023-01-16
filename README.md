@@ -10,7 +10,7 @@ Creating a working password generator helped me gain more experience and exposur
 "N/A""
 
 ## Usage
-
+https://xkranze.github.io/password-plug/
  ![alt tag](./PWgenerator.jpg)
 
 ## Credits
